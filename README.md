@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gumsueyah
 - 👀 I’m interested in learning how to code and create applications. I am unsure of the direction I want to go, but I would like to make a functioning study app to begin.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on... N/A
 - 📫 N/A
 
 <!---
